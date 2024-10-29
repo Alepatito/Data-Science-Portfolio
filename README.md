@@ -1,13 +1,13 @@
 # Portafolio de Ciencia de Datos
 
-Bienvenido a mi portafolio de ciencia de datos. Soy Alejandro Torres, científico de datos con experiencia en " ". Este espacio está dedicado a mostrar proyectos prácticos donde aplico mis conocimientos en programación, análisis de datos y machine learning.
+Bienvenido a mi portafolio de ciencia de datos. Soy Alejandro Torres, científico de datos con experiencia en . Este espacio está dedicado a mostrar proyectos prácticos donde aplico mis conocimientos en programación, análisis de datos y machine learning.
 
 ---
 
 ## Tabla de Contenidos
 1. [Introducción](#introducción)
 2. [Proyectos Destacados](#proyectos-destacados)
-3. [Habilidades Técnicas](#habilidades-técnicas)
+3. [Habilidades Técnicas](#habilidades-técnicas-aplicadas)
 4. [Recursos y Herramientas](#recursos-y-herramientas)
 5. [Contacto](#contacto)
 
@@ -25,15 +25,18 @@ Aquí encontrarás proyectos de ciencia de datos en diversas áreas como salud, 
 - Modelos y métricas de evaluación
 - Resultados y conclusiones
 
-## Habilidades Técnicas
+## Habilidades Técnicas Aplicadas 
 
 - **Lenguajes**: Python, R, SQL
 - **Bibliotecas de Python**: pandas, NumPy, scikit-learn, matplotlib, seaborn
-- **Herramientas**: Jupyter Notebook, Git, GitHub, Docker, etc.
+- **Herramientas**: Jupyter Notebook, Git, GitHub, Docker, Google Colab, etc
 
 ## Recursos y Herramientas
 
 Recopilación de recursos y herramientas que uso en mis proyectos: datasets, documentos de referencia y scripts.
 
 ## Contacto
+
+Puedes contactarme en alejitotm1@gmail.com 
+
 
