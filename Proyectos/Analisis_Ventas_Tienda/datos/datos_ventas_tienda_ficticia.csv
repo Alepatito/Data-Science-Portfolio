@@ -1,0 +1,1001 @@
+fecha,producto,categoria,precio,cantidad,cliente_id
+2023-09-03,Botas,Casual,150000,4,C168
+2023-10-07,Botas,Casual,150000,3,C145
+2023-09-07,Zapatillas,Casual,90000,5,C965
+2023-07-31,Botas,Casual,150000,5,C471
+2023-02-15,Sandalias,Verano,80000,3,C913
+2023-09-14,Zapatillas,Casual,90000,2,C473
+2023-01-21,Zapatos deportivos,Deportivo,100000,5,C349
+2023-10-14,Mocasines,Formal,120000,5,C827
+2023-01-28,Zapatos deportivos,Deportivo,100000,5,C327
+2023-09-06,Mocasines,Formal,120000,3,C601
+2023-03-12,Botas,Casual,150000,1,C135
+2023-08-25,Mocasines,Formal,120000,1,C675
+2023-09-02,Sandalias,Verano,80000,2,C388
+2023-07-20,Mocasines,Formal,120000,3,C714
+2023-01-10,Zapatos deportivos,Deportivo,100000,3,C838
+2023-05-01,Zapatillas,Casual,90000,3,C416
+2023-08-05,Mocasines,Formal,120000,2,C677
+2023-03-31,Zapatos deportivos,Deportivo,100000,5,C716
+2023-11-28,Sandalias,Verano,80000,3,C671
+2023-03-09,Sandalias,Verano,80000,5,C227
+2023-10-29,Zapatillas,Casual,90000,5,C657
+2023-05-10,Botas,Casual,150000,3,C878
+2023-11-08,Botas,Casual,150000,2,C121
+2023-01-31,Botas,Casual,150000,4,C862
+2023-06-01,Botas,Casual,150000,3,C514
+2023-02-05,Botas,Casual,150000,2,C153
+2023-11-15,Botas,Casual,150000,4,C263
+2023-06-17,Zapatillas,Casual,90000,5,C126
+2023-11-17,Zapatos deportivos,Deportivo,100000,5,C336
+2023-07-27,Sandalias,Verano,80000,5,C238
+2023-08-06,Sandalias,Verano,80000,4,C121
+2023-01-10,Sandalias,Verano,80000,4,C372
+2023-09-17,Zapatillas,Casual,90000,2,C670
+2023-04-17,Botas,Casual,150000,1,C331
+2023-11-28,Botas,Casual,150000,5,C191
+2023-10-12,Zapatos deportivos,Deportivo,100000,1,C942
+2023-08-06,Zapatillas,Casual,90000,1,C921
+2023-06-21,Mocasines,Formal,120000,3,C277
+2023-10-25,Mocasines,Formal,120000,1,C745
+2023-05-29,Zapatillas,Casual,90000,4,C904
+2023-03-10,Zapatillas,Casual,90000,2,C334
+2023-04-02,Zapatillas,Casual,90000,2,C641
+2023-03-07,Sandalias,Verano,80000,3,C374
+2023-03-30,Zapatos deportivos,Deportivo,100000,3,C580
+2023-08-12,Zapatos deportivos,Deportivo,100000,5,C289
+2023-07-05,Zapatillas,Casual,90000,3,C134
+2023-06-08,Zapatillas,Casual,90000,4,C493
+2023-02-01,Botas,Casual,150000,1,C658
+2023-12-02,Zapatos deportivos,Deportivo,100000,2,C956
+2023-02-01,Mocasines,Formal,120000,5,C123
+2023-04-01,Sandalias,Verano,80000,5,C113
+2023-06-26,Mocasines,Formal,120000,2,C742
+2023-03-25,Zapatillas,Casual,90000,1,C465
+2023-09-18,Mocasines,Formal,120000,1,C642
+2023-02-14,Botas,Casual,150000,5,C381
+2023-03-20,Mocasines,Formal,120000,3,C476
+2023-07-05,Sandalias,Verano,80000,4,C683
+2023-09-02,Botas,Casual,150000,4,C608
+2023-09-25,Zapatillas,Casual,90000,1,C522
+2023-05-02,Mocasines,Formal,120000,4,C149
+2023-12-13,Botas,Casual,150000,1,C427
+2023-12-24,Botas,Casual,150000,2,C922
+2023-05-13,Zapatos deportivos,Deportivo,100000,5,C371
+2023-05-25,Mocasines,Formal,120000,5,C927
+2023-09-16,Zapatos deportivos,Deportivo,100000,5,C195
+2023-08-03,Sandalias,Verano,80000,2,C792
+2023-03-01,Zapatos deportivos,Deportivo,100000,3,C246
+2023-08-14,Zapatillas,Casual,90000,2,C951
+2023-05-07,Zapatos deportivos,Deportivo,100000,1,C794
+2023-01-30,Botas,Casual,150000,4,C771
+2023-12-02,Botas,Casual,150000,1,C535
+2023-01-31,Mocasines,Formal,120000,4,C574
+2023-01-02,Mocasines,Formal,120000,1,C357
+2023-12-10,Mocasines,Formal,120000,5,C801
+2023-10-31,Zapatillas,Casual,90000,1,C344
+2023-11-03,Sandalias,Verano,80000,3,C400
+2023-07-16,Zapatos deportivos,Deportivo,100000,1,C738
+2023-04-21,Mocasines,Formal,120000,5,C285
+2023-10-03,Botas,Casual,150000,4,C608
+2023-03-08,Sandalias,Verano,80000,5,C772
+2023-04-11,Zapatos deportivos,Deportivo,100000,3,C946
+2023-08-03,Mocasines,Formal,120000,1,C758
+2023-09-17,Zapatillas,Casual,90000,4,C451
+2023-03-15,Sandalias,Verano,80000,2,C599
+2023-12-03,Zapatillas,Casual,90000,2,C137
+2023-05-07,Mocasines,Formal,120000,3,C360
+2023-01-06,Sandalias,Verano,80000,3,C362
+2023-10-09,Zapatillas,Casual,90000,5,C587
+2023-05-09,Zapatillas,Casual,90000,4,C896
+2023-12-03,Mocasines,Formal,120000,2,C262
+2023-04-21,Zapatos deportivos,Deportivo,100000,4,C413
+2023-09-14,Zapatillas,Casual,90000,3,C204
+2023-01-12,Mocasines,Formal,120000,4,C435
+2023-09-27,Zapatos deportivos,Deportivo,100000,4,C402
+2023-03-29,Mocasines,Formal,120000,5,C388
+2023-10-12,Botas,Casual,150000,4,C908
+2023-02-21,Zapatillas,Casual,90000,5,C903
+2023-12-01,Mocasines,Formal,120000,2,C706
+2023-11-28,Zapatillas,Casual,90000,1,C862
+2023-11-04,Sandalias,Verano,80000,2,C173
+2023-01-02,Botas,Casual,150000,1,C216
+2023-12-14,Mocasines,Formal,120000,2,C356
+2023-06-02,Sandalias,Verano,80000,2,C860
+2023-05-30,Zapatillas,Casual,90000,3,C599
+2023-04-19,Sandalias,Verano,80000,3,C445
+2023-03-10,Sandalias,Verano,80000,2,C858
+2023-03-17,Mocasines,Formal,120000,3,C238
+2023-08-27,Zapatillas,Casual,90000,2,C520
+2023-07-07,Zapatos deportivos,Deportivo,100000,1,C969
+2023-07-16,Zapatos deportivos,Deportivo,100000,5,C307
+2023-11-27,Zapatos deportivos,Deportivo,100000,3,C700
+2023-02-24,Zapatos deportivos,Deportivo,100000,5,C456
+2023-05-04,Sandalias,Verano,80000,2,C492
+2023-08-11,Mocasines,Formal,120000,2,C204
+2023-07-12,Zapatillas,Casual,90000,3,C348
+2023-07-24,Botas,Casual,150000,3,C592
+2023-12-09,Sandalias,Verano,80000,5,C615
+2023-08-04,Mocasines,Formal,120000,2,C666
+2023-08-19,Botas,Casual,150000,3,C614
+2023-03-11,Mocasines,Formal,120000,2,C563
+2023-08-19,Sandalias,Verano,80000,2,C701
+2023-02-20,Zapatillas,Casual,90000,2,C589
+2023-06-28,Zapatillas,Casual,90000,2,C909
+2023-03-31,Mocasines,Formal,120000,3,C889
+2023-05-21,Sandalias,Verano,80000,1,C865
+2023-08-08,Zapatos deportivos,Deportivo,100000,5,C700
+2023-07-29,Mocasines,Formal,120000,1,C374
+2023-10-26,Sandalias,Verano,80000,4,C213
+2023-11-27,Mocasines,Formal,120000,5,C353
+2023-09-15,Sandalias,Verano,80000,4,C806
+2023-10-10,Botas,Casual,150000,1,C401
+2023-05-16,Sandalias,Verano,80000,1,C821
+2023-10-27,Sandalias,Verano,80000,1,C610
+2023-02-25,Botas,Casual,150000,4,C246
+2023-06-19,Sandalias,Verano,80000,5,C677
+2023-08-09,Mocasines,Formal,120000,2,C566
+2023-08-15,Zapatos deportivos,Deportivo,100000,1,C224
+2023-03-23,Zapatos deportivos,Deportivo,100000,2,C436
+2023-11-13,Zapatos deportivos,Deportivo,100000,1,C421
+2023-04-14,Zapatillas,Casual,90000,4,C239
+2023-11-09,Mocasines,Formal,120000,3,C401
+2023-08-11,Mocasines,Formal,120000,4,C437
+2023-01-24,Mocasines,Formal,120000,3,C129
+2023-04-03,Botas,Casual,150000,1,C222
+2023-12-01,Mocasines,Formal,120000,4,C701
+2023-09-23,Zapatillas,Casual,90000,4,C893
+2023-07-07,Zapatillas,Casual,90000,1,C400
+2023-09-24,Mocasines,Formal,120000,4,C237
+2023-09-17,Mocasines,Formal,120000,3,C694
+2023-04-25,Zapatos deportivos,Deportivo,100000,1,C613
+2023-07-05,Sandalias,Verano,80000,4,C495
+2023-08-04,Mocasines,Formal,120000,1,C514
+2023-06-04,Zapatos deportivos,Deportivo,100000,4,C470
+2023-03-29,Zapatos deportivos,Deportivo,100000,4,C700
+2023-09-08,Zapatos deportivos,Deportivo,100000,3,C883
+2023-07-07,Zapatos deportivos,Deportivo,100000,1,C189
+2023-07-07,Mocasines,Formal,120000,5,C760
+2023-10-09,Mocasines,Formal,120000,1,C188
+2023-03-08,Zapatillas,Casual,90000,4,C925
+2023-08-05,Zapatillas,Casual,90000,4,C302
+2023-01-26,Botas,Casual,150000,2,C154
+2023-07-17,Zapatillas,Casual,90000,5,C419
+2023-11-13,Zapatillas,Casual,90000,5,C746
+2023-04-26,Mocasines,Formal,120000,1,C895
+2023-02-17,Sandalias,Verano,80000,4,C239
+2023-10-28,Mocasines,Formal,120000,1,C554
+2023-05-27,Sandalias,Verano,80000,5,C396
+2023-02-19,Sandalias,Verano,80000,3,C630
+2023-12-28,Zapatos deportivos,Deportivo,100000,4,C195
+2023-04-10,Sandalias,Verano,80000,2,C709
+2023-06-23,Sandalias,Verano,80000,4,C180
+2023-10-25,Zapatillas,Casual,90000,5,C219
+2023-03-07,Zapatillas,Casual,90000,1,C701
+2023-07-26,Botas,Casual,150000,1,C437
+2023-10-14,Zapatos deportivos,Deportivo,100000,3,C342
+2023-05-07,Zapatos deportivos,Deportivo,100000,4,C268
+2023-01-29,Sandalias,Verano,80000,3,C639
+2023-05-19,Mocasines,Formal,120000,1,C591
+2023-01-02,Mocasines,Formal,120000,4,C889
+2023-09-01,Botas,Casual,150000,1,C308
+2023-02-11,Botas,Casual,150000,3,C571
+2023-06-18,Sandalias,Verano,80000,3,C646
+2023-12-20,Sandalias,Verano,80000,2,C618
+2023-12-28,Zapatos deportivos,Deportivo,100000,1,C873
+2023-07-12,Mocasines,Formal,120000,2,C864
+2023-06-13,Sandalias,Verano,80000,1,C829
+2023-06-27,Zapatos deportivos,Deportivo,100000,4,C160
+2023-06-14,Zapatos deportivos,Deportivo,100000,1,C580
+2023-12-24,Zapatillas,Casual,90000,1,C925
+2023-07-27,Zapatos deportivos,Deportivo,100000,2,C637
+2023-10-14,Zapatillas,Casual,90000,3,C925
+2023-03-02,Mocasines,Formal,120000,1,C643
+2023-05-25,Mocasines,Formal,120000,3,C208
+2023-07-25,Zapatos deportivos,Deportivo,100000,3,C750
+2023-03-30,Sandalias,Verano,80000,4,C621
+2023-06-23,Zapatos deportivos,Deportivo,100000,4,C793
+2023-05-19,Zapatos deportivos,Deportivo,100000,2,C917
+2023-08-17,Sandalias,Verano,80000,4,C141
+2023-06-02,Sandalias,Verano,80000,2,C711
+2023-01-05,Zapatillas,Casual,90000,2,C400
+2023-12-30,Sandalias,Verano,80000,3,C158
+2023-11-26,Zapatillas,Casual,90000,5,C692
+2023-04-18,Botas,Casual,150000,1,C488
+2023-06-30,Botas,Casual,150000,2,C538
+2023-10-15,Mocasines,Formal,120000,3,C492
+2023-05-08,Sandalias,Verano,80000,1,C534
+2023-02-19,Sandalias,Verano,80000,1,C527
+2023-03-09,Botas,Casual,150000,1,C573
+2023-06-15,Mocasines,Formal,120000,2,C684
+2023-10-10,Sandalias,Verano,80000,5,C474
+2023-07-15,Zapatillas,Casual,90000,2,C910
+2023-09-05,Zapatos deportivos,Deportivo,100000,4,C419
+2023-12-09,Zapatillas,Casual,90000,5,C161
+2023-01-22,Zapatillas,Casual,90000,3,C144
+2023-03-19,Mocasines,Formal,120000,5,C916
+2023-01-21,Zapatillas,Casual,90000,3,C517
+2023-12-18,Sandalias,Verano,80000,1,C354
+2023-10-16,Botas,Casual,150000,1,C369
+2023-02-20,Botas,Casual,150000,3,C454
+2023-03-07,Zapatos deportivos,Deportivo,100000,2,C570
+2023-01-22,Zapatillas,Casual,90000,4,C281
+2023-05-23,Zapatos deportivos,Deportivo,100000,5,C599
+2023-01-21,Botas,Casual,150000,3,C833
+2023-06-16,Zapatillas,Casual,90000,3,C851
+2023-11-18,Mocasines,Formal,120000,4,C103
+2023-03-18,Mocasines,Formal,120000,1,C355
+2023-05-08,Zapatos deportivos,Deportivo,100000,4,C299
+2023-07-12,Sandalias,Verano,80000,3,C925
+2023-10-01,Zapatillas,Casual,90000,3,C970
+2023-06-23,Mocasines,Formal,120000,5,C541
+2023-11-02,Zapatillas,Casual,90000,4,C996
+2023-05-23,Mocasines,Formal,120000,2,C816
+2023-07-27,Zapatos deportivos,Deportivo,100000,4,C692
+2023-12-02,Sandalias,Verano,80000,1,C821
+2023-02-22,Mocasines,Formal,120000,5,C561
+2023-07-07,Sandalias,Verano,80000,2,C694
+2023-04-25,Botas,Casual,150000,1,C623
+2023-04-05,Zapatos deportivos,Deportivo,100000,2,C831
+2023-08-08,Mocasines,Formal,120000,5,C495
+2023-09-23,Zapatillas,Casual,90000,1,C431
+2023-06-13,Sandalias,Verano,80000,2,C763
+2023-03-31,Zapatillas,Casual,90000,5,C681
+2023-05-15,Zapatillas,Casual,90000,4,C963
+2023-02-28,Sandalias,Verano,80000,2,C858
+2023-12-17,Zapatillas,Casual,90000,1,C522
+2023-12-19,Zapatillas,Casual,90000,5,C913
+2023-10-24,Zapatos deportivos,Deportivo,100000,4,C816
+2023-01-01,Botas,Casual,150000,4,C895
+2023-02-16,Mocasines,Formal,120000,4,C312
+2023-02-06,Botas,Casual,150000,1,C554
+2023-01-15,Sandalias,Verano,80000,3,C245
+2023-08-16,Zapatillas,Casual,90000,4,C360
+2023-03-11,Sandalias,Verano,80000,2,C777
+2023-04-29,Zapatos deportivos,Deportivo,100000,2,C561
+2023-02-06,Botas,Casual,150000,4,C309
+2023-04-25,Zapatillas,Casual,90000,2,C387
+2023-09-09,Zapatillas,Casual,90000,5,C211
+2023-06-14,Zapatos deportivos,Deportivo,100000,5,C602
+2023-09-13,Zapatos deportivos,Deportivo,100000,5,C940
+2023-04-09,Botas,Casual,150000,1,C689
+2023-07-02,Zapatos deportivos,Deportivo,100000,1,C173
+2023-02-10,Sandalias,Verano,80000,3,C287
+2023-01-30,Botas,Casual,150000,5,C443
+2023-04-03,Botas,Casual,150000,4,C186
+2023-06-09,Zapatos deportivos,Deportivo,100000,4,C960
+2023-12-21,Mocasines,Formal,120000,1,C448
+2023-12-28,Botas,Casual,150000,5,C629
+2023-03-18,Sandalias,Verano,80000,4,C237
+2023-10-15,Zapatillas,Casual,90000,2,C474
+2023-08-28,Botas,Casual,150000,1,C671
+2023-04-16,Botas,Casual,150000,2,C149
+2023-10-31,Botas,Casual,150000,1,C370
+2023-11-28,Sandalias,Verano,80000,4,C670
+2023-05-23,Sandalias,Verano,80000,5,C298
+2023-01-09,Mocasines,Formal,120000,3,C710
+2023-07-12,Sandalias,Verano,80000,3,C596
+2023-12-31,Botas,Casual,150000,5,C151
+2023-11-21,Zapatillas,Casual,90000,4,C934
+2023-06-05,Zapatos deportivos,Deportivo,100000,2,C994
+2023-02-26,Sandalias,Verano,80000,3,C975
+2023-03-19,Zapatillas,Casual,90000,3,C580
+2023-08-23,Botas,Casual,150000,4,C955
+2023-01-30,Zapatillas,Casual,90000,3,C426
+2023-04-07,Botas,Casual,150000,3,C149
+2023-11-05,Botas,Casual,150000,5,C924
+2023-10-10,Sandalias,Verano,80000,2,C406
+2023-10-23,Sandalias,Verano,80000,4,C653
+2023-05-03,Zapatos deportivos,Deportivo,100000,1,C832
+2023-01-22,Sandalias,Verano,80000,2,C533
+2023-04-13,Botas,Casual,150000,3,C122
+2023-12-28,Zapatos deportivos,Deportivo,100000,4,C345
+2023-03-24,Mocasines,Formal,120000,2,C628
+2023-06-10,Botas,Casual,150000,4,C486
+2023-03-26,Zapatos deportivos,Deportivo,100000,1,C217
+2023-06-11,Zapatillas,Casual,90000,4,C764
+2023-07-08,Botas,Casual,150000,4,C273
+2023-07-13,Zapatillas,Casual,90000,5,C104
+2023-08-09,Zapatos deportivos,Deportivo,100000,1,C466
+2023-12-23,Zapatillas,Casual,90000,1,C337
+2023-09-29,Zapatillas,Casual,90000,5,C533
+2023-04-20,Botas,Casual,150000,5,C867
+2023-11-25,Botas,Casual,150000,5,C404
+2023-02-19,Botas,Casual,150000,1,C180
+2023-02-03,Mocasines,Formal,120000,3,C848
+2023-06-12,Botas,Casual,150000,2,C565
+2023-03-25,Mocasines,Formal,120000,3,C107
+2023-09-04,Mocasines,Formal,120000,5,C787
+2023-12-17,Zapatillas,Casual,90000,1,C126
+2023-04-06,Sandalias,Verano,80000,4,C931
+2023-08-01,Zapatillas,Casual,90000,2,C575
+2023-12-28,Zapatos deportivos,Deportivo,100000,1,C182
+2023-09-16,Zapatillas,Casual,90000,5,C790
+2023-12-14,Zapatillas,Casual,90000,3,C970
+2023-01-18,Botas,Casual,150000,3,C518
+2023-03-15,Botas,Casual,150000,2,C847
+2023-02-14,Sandalias,Verano,80000,2,C245
+2023-12-10,Mocasines,Formal,120000,5,C906
+2023-05-01,Mocasines,Formal,120000,2,C358
+2023-07-18,Zapatos deportivos,Deportivo,100000,2,C594
+2023-02-05,Zapatillas,Casual,90000,1,C304
+2023-10-12,Mocasines,Formal,120000,1,C650
+2023-08-10,Mocasines,Formal,120000,5,C994
+2023-02-27,Mocasines,Formal,120000,4,C812
+2023-06-18,Sandalias,Verano,80000,2,C144
+2023-11-14,Zapatillas,Casual,90000,5,C695
+2023-01-11,Botas,Casual,150000,1,C820
+2023-03-21,Botas,Casual,150000,5,C146
+2023-05-28,Zapatillas,Casual,90000,1,C846
+2023-05-17,Zapatillas,Casual,90000,1,C460
+2023-05-04,Zapatos deportivos,Deportivo,100000,2,C142
+2023-05-06,Zapatillas,Casual,90000,2,C287
+2023-02-05,Sandalias,Verano,80000,5,C501
+2023-04-05,Zapatillas,Casual,90000,1,C790
+2023-12-06,Sandalias,Verano,80000,4,C685
+2023-05-07,Mocasines,Formal,120000,3,C543
+2023-07-23,Zapatillas,Casual,90000,4,C443
+2023-05-15,Zapatillas,Casual,90000,2,C166
+2023-08-27,Sandalias,Verano,80000,1,C399
+2023-11-01,Zapatos deportivos,Deportivo,100000,3,C328
+2023-01-06,Mocasines,Formal,120000,2,C427
+2023-11-06,Zapatillas,Casual,90000,1,C926
+2023-11-22,Botas,Casual,150000,3,C806
+2023-01-31,Zapatillas,Casual,90000,4,C683
+2023-12-09,Sandalias,Verano,80000,5,C691
+2023-05-11,Sandalias,Verano,80000,2,C366
+2023-10-24,Zapatos deportivos,Deportivo,100000,3,C150
+2023-09-21,Botas,Casual,150000,3,C300
+2023-09-14,Botas,Casual,150000,1,C149
+2023-05-15,Mocasines,Formal,120000,3,C547
+2023-04-12,Zapatos deportivos,Deportivo,100000,3,C853
+2023-06-21,Botas,Casual,150000,3,C211
+2023-12-16,Mocasines,Formal,120000,1,C797
+2023-05-08,Mocasines,Formal,120000,1,C829
+2023-04-10,Zapatos deportivos,Deportivo,100000,3,C590
+2023-01-11,Botas,Casual,150000,5,C470
+2023-09-13,Mocasines,Formal,120000,4,C602
+2023-06-03,Zapatillas,Casual,90000,3,C714
+2023-08-09,Sandalias,Verano,80000,4,C468
+2023-05-13,Mocasines,Formal,120000,3,C557
+2023-02-22,Zapatos deportivos,Deportivo,100000,3,C749
+2023-02-07,Zapatos deportivos,Deportivo,100000,2,C965
+2023-04-18,Sandalias,Verano,80000,1,C208
+2023-03-24,Zapatillas,Casual,90000,1,C763
+2023-10-02,Mocasines,Formal,120000,3,C247
+2023-03-11,Zapatillas,Casual,90000,3,C117
+2023-03-15,Zapatillas,Casual,90000,1,C390
+2023-08-06,Sandalias,Verano,80000,4,C589
+2023-06-15,Zapatos deportivos,Deportivo,100000,5,C629
+2023-03-17,Sandalias,Verano,80000,3,C862
+2023-06-11,Zapatos deportivos,Deportivo,100000,4,C503
+2023-07-06,Sandalias,Verano,80000,2,C346
+2023-11-23,Zapatillas,Casual,90000,4,C464
+2023-08-22,Zapatos deportivos,Deportivo,100000,1,C953
+2023-11-07,Sandalias,Verano,80000,2,C558
+2023-11-20,Mocasines,Formal,120000,3,C616
+2023-12-28,Zapatillas,Casual,90000,1,C158
+2023-02-14,Sandalias,Verano,80000,1,C168
+2023-06-07,Zapatos deportivos,Deportivo,100000,1,C914
+2023-08-30,Zapatos deportivos,Deportivo,100000,5,C989
+2023-08-15,Zapatos deportivos,Deportivo,100000,1,C999
+2023-12-26,Zapatos deportivos,Deportivo,100000,3,C670
+2023-10-05,Zapatillas,Casual,90000,4,C376
+2023-12-11,Sandalias,Verano,80000,3,C351
+2023-04-11,Botas,Casual,150000,2,C771
+2023-08-16,Zapatillas,Casual,90000,5,C656
+2023-04-29,Sandalias,Verano,80000,2,C692
+2023-12-24,Sandalias,Verano,80000,5,C982
+2023-05-22,Botas,Casual,150000,5,C580
+2023-09-15,Zapatillas,Casual,90000,3,C555
+2023-03-30,Sandalias,Verano,80000,4,C895
+2023-02-15,Mocasines,Formal,120000,5,C768
+2023-10-29,Sandalias,Verano,80000,2,C916
+2023-12-05,Zapatillas,Casual,90000,4,C964
+2023-03-08,Mocasines,Formal,120000,3,C669
+2023-10-06,Mocasines,Formal,120000,3,C756
+2023-07-01,Zapatos deportivos,Deportivo,100000,4,C657
+2023-10-18,Botas,Casual,150000,4,C490
+2023-12-07,Zapatos deportivos,Deportivo,100000,2,C943
+2023-06-23,Zapatos deportivos,Deportivo,100000,1,C390
+2023-12-02,Zapatos deportivos,Deportivo,100000,5,C761
+2023-02-20,Sandalias,Verano,80000,5,C759
+2023-05-20,Sandalias,Verano,80000,5,C677
+2023-04-29,Mocasines,Formal,120000,3,C919
+2023-06-09,Zapatos deportivos,Deportivo,100000,5,C463
+2023-12-02,Zapatillas,Casual,90000,1,C958
+2023-05-12,Zapatillas,Casual,90000,4,C121
+2023-07-09,Zapatillas,Casual,90000,1,C740
+2023-03-27,Zapatillas,Casual,90000,5,C939
+2023-12-23,Zapatos deportivos,Deportivo,100000,3,C565
+2023-11-18,Zapatillas,Casual,90000,1,C869
+2023-09-05,Zapatillas,Casual,90000,1,C561
+2023-04-04,Zapatillas,Casual,90000,5,C823
+2023-10-08,Zapatos deportivos,Deportivo,100000,3,C887
+2023-05-25,Sandalias,Verano,80000,2,C347
+2023-08-26,Botas,Casual,150000,5,C109
+2023-09-20,Zapatos deportivos,Deportivo,100000,4,C140
+2023-11-02,Zapatos deportivos,Deportivo,100000,5,C600
+2023-11-06,Zapatillas,Casual,90000,1,C992
+2023-10-09,Botas,Casual,150000,2,C922
+2023-02-08,Sandalias,Verano,80000,5,C136
+2023-06-12,Sandalias,Verano,80000,5,C987
+2023-07-21,Zapatos deportivos,Deportivo,100000,4,C493
+2023-10-06,Zapatos deportivos,Deportivo,100000,1,C514
+2023-03-31,Botas,Casual,150000,2,C698
+2023-12-18,Zapatillas,Casual,90000,4,C456
+2023-06-07,Mocasines,Formal,120000,5,C315
+2023-01-17,Mocasines,Formal,120000,3,C177
+2023-08-09,Zapatillas,Casual,90000,2,C283
+2023-07-28,Sandalias,Verano,80000,5,C735
+2023-09-25,Sandalias,Verano,80000,5,C452
+2023-03-25,Zapatillas,Casual,90000,4,C966
+2023-06-18,Zapatos deportivos,Deportivo,100000,2,C443
+2023-12-16,Zapatos deportivos,Deportivo,100000,1,C187
+2023-07-08,Zapatos deportivos,Deportivo,100000,2,C993
+2023-10-03,Mocasines,Formal,120000,3,C243
+2023-06-14,Botas,Casual,150000,2,C162
+2023-09-14,Zapatos deportivos,Deportivo,100000,5,C866
+2023-08-04,Zapatillas,Casual,90000,1,C950
+2023-03-03,Mocasines,Formal,120000,3,C558
+2023-01-01,Zapatillas,Casual,90000,5,C496
+2023-01-02,Mocasines,Formal,120000,5,C237
+2023-08-27,Zapatillas,Casual,90000,4,C520
+2023-01-23,Zapatillas,Casual,90000,3,C623
+2023-03-21,Mocasines,Formal,120000,2,C364
+2023-05-01,Zapatillas,Casual,90000,5,C474
+2023-08-06,Zapatos deportivos,Deportivo,100000,2,C263
+2023-07-22,Zapatos deportivos,Deportivo,100000,2,C320
+2023-10-02,Zapatillas,Casual,90000,2,C146
+2023-03-22,Zapatos deportivos,Deportivo,100000,3,C610
+2023-12-01,Zapatos deportivos,Deportivo,100000,5,C210
+2023-07-17,Sandalias,Verano,80000,2,C901
+2023-05-11,Sandalias,Verano,80000,3,C173
+2023-06-04,Zapatillas,Casual,90000,4,C717
+2023-10-10,Botas,Casual,150000,1,C295
+2023-10-03,Botas,Casual,150000,5,C766
+2023-06-27,Mocasines,Formal,120000,4,C439
+2023-11-10,Zapatillas,Casual,90000,2,C859
+2023-03-25,Botas,Casual,150000,4,C199
+2023-05-12,Zapatos deportivos,Deportivo,100000,2,C698
+2023-09-25,Zapatos deportivos,Deportivo,100000,1,C944
+2023-04-28,Botas,Casual,150000,2,C603
+2023-09-09,Sandalias,Verano,80000,2,C768
+2023-06-30,Zapatos deportivos,Deportivo,100000,3,C514
+2023-04-07,Mocasines,Formal,120000,3,C344
+2023-06-26,Mocasines,Formal,120000,2,C133
+2023-03-05,Zapatillas,Casual,90000,1,C778
+2023-02-10,Mocasines,Formal,120000,4,C213
+2023-03-14,Zapatillas,Casual,90000,4,C119
+2023-03-13,Zapatos deportivos,Deportivo,100000,3,C590
+2023-01-15,Mocasines,Formal,120000,5,C146
+2023-08-09,Sandalias,Verano,80000,4,C509
+2023-12-22,Botas,Casual,150000,4,C941
+2023-12-18,Botas,Casual,150000,3,C852
+2023-06-02,Zapatillas,Casual,90000,5,C225
+2023-10-16,Botas,Casual,150000,5,C413
+2023-05-15,Zapatillas,Casual,90000,3,C275
+2023-09-03,Zapatillas,Casual,90000,3,C565
+2023-01-22,Zapatillas,Casual,90000,3,C365
+2023-05-24,Sandalias,Verano,80000,3,C282
+2023-02-28,Sandalias,Verano,80000,4,C333
+2023-05-25,Mocasines,Formal,120000,4,C239
+2023-04-04,Zapatos deportivos,Deportivo,100000,5,C388
+2023-05-28,Botas,Casual,150000,5,C715
+2023-02-24,Mocasines,Formal,120000,2,C915
+2023-10-14,Sandalias,Verano,80000,4,C117
+2023-09-25,Zapatos deportivos,Deportivo,100000,5,C900
+2023-09-07,Zapatillas,Casual,90000,2,C283
+2023-02-03,Mocasines,Formal,120000,1,C580
+2023-12-05,Mocasines,Formal,120000,4,C976
+2023-04-29,Mocasines,Formal,120000,4,C567
+2023-04-14,Mocasines,Formal,120000,5,C517
+2023-06-13,Botas,Casual,150000,5,C542
+2023-07-26,Zapatillas,Casual,90000,4,C310
+2023-11-26,Mocasines,Formal,120000,2,C692
+2023-08-13,Zapatillas,Casual,90000,5,C932
+2023-01-04,Sandalias,Verano,80000,2,C401
+2023-02-26,Zapatos deportivos,Deportivo,100000,4,C212
+2023-03-21,Mocasines,Formal,120000,4,C525
+2023-03-21,Zapatillas,Casual,90000,4,C245
+2023-08-16,Mocasines,Formal,120000,2,C959
+2023-11-19,Zapatos deportivos,Deportivo,100000,5,C163
+2023-12-08,Botas,Casual,150000,3,C418
+2023-10-05,Botas,Casual,150000,2,C912
+2023-07-17,Sandalias,Verano,80000,4,C648
+2023-02-20,Zapatos deportivos,Deportivo,100000,4,C187
+2023-07-11,Mocasines,Formal,120000,5,C578
+2023-11-01,Botas,Casual,150000,2,C761
+2023-08-03,Mocasines,Formal,120000,4,C967
+2023-05-21,Sandalias,Verano,80000,2,C778
+2023-05-09,Botas,Casual,150000,3,C187
+2023-08-13,Botas,Casual,150000,1,C524
+2023-04-27,Sandalias,Verano,80000,3,C720
+2023-03-07,Zapatillas,Casual,90000,2,C875
+2023-07-08,Zapatos deportivos,Deportivo,100000,4,C641
+2023-06-23,Zapatillas,Casual,90000,4,C408
+2023-07-16,Mocasines,Formal,120000,2,C151
+2023-05-06,Zapatillas,Casual,90000,3,C622
+2023-04-02,Sandalias,Verano,80000,4,C294
+2023-06-18,Zapatos deportivos,Deportivo,100000,2,C287
+2023-11-22,Mocasines,Formal,120000,3,C958
+2023-06-27,Zapatos deportivos,Deportivo,100000,5,C651
+2023-12-14,Sandalias,Verano,80000,4,C789
+2023-06-21,Zapatos deportivos,Deportivo,100000,5,C825
+2023-12-29,Sandalias,Verano,80000,3,C787
+2023-06-17,Mocasines,Formal,120000,5,C121
+2023-11-02,Sandalias,Verano,80000,4,C962
+2023-07-31,Zapatillas,Casual,90000,1,C283
+2023-03-23,Zapatillas,Casual,90000,4,C792
+2023-11-04,Zapatillas,Casual,90000,5,C693
+2023-05-25,Zapatillas,Casual,90000,5,C476
+2023-06-04,Zapatillas,Casual,90000,2,C478
+2023-09-11,Botas,Casual,150000,4,C939
+2023-11-17,Zapatos deportivos,Deportivo,100000,2,C323
+2023-03-17,Sandalias,Verano,80000,1,C557
+2023-06-09,Zapatos deportivos,Deportivo,100000,2,C342
+2023-11-30,Zapatillas,Casual,90000,1,C806
+2023-05-03,Mocasines,Formal,120000,2,C300
+2023-07-17,Zapatos deportivos,Deportivo,100000,4,C345
+2023-05-06,Zapatos deportivos,Deportivo,100000,2,C415
+2023-03-10,Mocasines,Formal,120000,3,C245
+2023-07-22,Mocasines,Formal,120000,2,C423
+2023-09-03,Zapatos deportivos,Deportivo,100000,4,C969
+2023-10-25,Zapatillas,Casual,90000,3,C182
+2023-02-20,Sandalias,Verano,80000,5,C185
+2023-04-19,Zapatos deportivos,Deportivo,100000,5,C860
+2023-03-09,Sandalias,Verano,80000,1,C423
+2023-06-30,Zapatos deportivos,Deportivo,100000,2,C171
+2023-11-09,Zapatos deportivos,Deportivo,100000,4,C185
+2023-02-06,Zapatillas,Casual,90000,2,C241
+2023-01-09,Zapatos deportivos,Deportivo,100000,5,C537
+2023-11-17,Zapatos deportivos,Deportivo,100000,3,C754
+2023-12-25,Sandalias,Verano,80000,4,C102
+2023-02-08,Zapatillas,Casual,90000,1,C608
+2023-09-18,Botas,Casual,150000,1,C947
+2023-02-07,Botas,Casual,150000,5,C190
+2023-09-10,Zapatillas,Casual,90000,1,C737
+2023-02-21,Zapatos deportivos,Deportivo,100000,1,C530
+2023-10-30,Zapatillas,Casual,90000,3,C791
+2023-02-06,Sandalias,Verano,80000,5,C622
+2023-01-18,Sandalias,Verano,80000,2,C921
+2023-02-08,Sandalias,Verano,80000,1,C246
+2023-07-01,Zapatillas,Casual,90000,1,C819
+2023-06-14,Sandalias,Verano,80000,5,C538
+2023-06-25,Botas,Casual,150000,3,C742
+2023-04-20,Mocasines,Formal,120000,4,C299
+2023-03-08,Botas,Casual,150000,4,C268
+2023-05-24,Mocasines,Formal,120000,1,C837
+2023-05-11,Zapatillas,Casual,90000,1,C975
+2023-09-08,Zapatillas,Casual,90000,3,C336
+2023-10-30,Zapatos deportivos,Deportivo,100000,2,C232
+2023-12-06,Botas,Casual,150000,4,C247
+2023-12-29,Zapatillas,Casual,90000,2,C239
+2023-06-15,Mocasines,Formal,120000,1,C556
+2023-05-24,Sandalias,Verano,80000,1,C315
+2023-07-28,Botas,Casual,150000,4,C431
+2023-08-22,Sandalias,Verano,80000,4,C757
+2023-08-05,Mocasines,Formal,120000,3,C167
+2023-03-05,Mocasines,Formal,120000,3,C762
+2023-04-13,Zapatos deportivos,Deportivo,100000,3,C275
+2023-07-30,Zapatillas,Casual,90000,2,C403
+2023-07-29,Zapatillas,Casual,90000,5,C278
+2023-09-11,Botas,Casual,150000,3,C947
+2023-08-09,Sandalias,Verano,80000,3,C979
+2023-11-20,Sandalias,Verano,80000,4,C863
+2023-12-19,Botas,Casual,150000,1,C239
+2023-04-10,Zapatillas,Casual,90000,2,C381
+2023-05-05,Sandalias,Verano,80000,1,C945
+2023-02-07,Sandalias,Verano,80000,4,C936
+2023-08-15,Zapatos deportivos,Deportivo,100000,2,C420
+2023-10-22,Zapatos deportivos,Deportivo,100000,1,C174
+2023-08-24,Botas,Casual,150000,2,C857
+2023-03-16,Zapatos deportivos,Deportivo,100000,4,C577
+2023-08-21,Zapatillas,Casual,90000,2,C435
+2023-05-25,Zapatos deportivos,Deportivo,100000,1,C107
+2023-11-04,Mocasines,Formal,120000,4,C488
+2023-12-26,Zapatos deportivos,Deportivo,100000,3,C775
+2023-09-29,Zapatillas,Casual,90000,3,C300
+2023-09-17,Mocasines,Formal,120000,2,C685
+2023-08-22,Zapatos deportivos,Deportivo,100000,1,C267
+2023-10-07,Zapatos deportivos,Deportivo,100000,1,C186
+2023-03-13,Zapatos deportivos,Deportivo,100000,2,C257
+2023-10-25,Sandalias,Verano,80000,2,C160
+2023-01-10,Sandalias,Verano,80000,5,C106
+2023-12-07,Sandalias,Verano,80000,2,C565
+2023-12-09,Mocasines,Formal,120000,4,C266
+2023-09-25,Botas,Casual,150000,4,C264
+2023-07-18,Botas,Casual,150000,1,C495
+2023-07-26,Mocasines,Formal,120000,5,C756
+2023-07-14,Zapatillas,Casual,90000,3,C213
+2023-06-29,Zapatillas,Casual,90000,5,C995
+2023-10-11,Zapatos deportivos,Deportivo,100000,5,C699
+2023-09-30,Zapatillas,Casual,90000,2,C890
+2023-05-27,Zapatillas,Casual,90000,3,C634
+2023-06-16,Zapatos deportivos,Deportivo,100000,3,C878
+2023-07-16,Zapatillas,Casual,90000,1,C442
+2023-06-30,Zapatos deportivos,Deportivo,100000,1,C421
+2023-02-12,Mocasines,Formal,120000,5,C102
+2023-08-09,Mocasines,Formal,120000,1,C394
+2023-03-23,Botas,Casual,150000,2,C818
+2023-06-16,Sandalias,Verano,80000,1,C892
+2023-09-01,Botas,Casual,150000,5,C983
+2023-05-03,Sandalias,Verano,80000,1,C173
+2023-01-18,Botas,Casual,150000,3,C220
+2023-01-29,Zapatillas,Casual,90000,4,C126
+2023-08-07,Botas,Casual,150000,5,C595
+2023-10-09,Mocasines,Formal,120000,3,C146
+2023-09-11,Botas,Casual,150000,2,C816
+2023-12-31,Mocasines,Formal,120000,3,C253
+2023-01-02,Botas,Casual,150000,1,C922
+2023-01-06,Mocasines,Formal,120000,5,C109
+2023-06-05,Zapatillas,Casual,90000,1,C375
+2023-08-30,Zapatos deportivos,Deportivo,100000,4,C982
+2023-09-22,Zapatillas,Casual,90000,3,C378
+2023-11-25,Zapatos deportivos,Deportivo,100000,1,C990
+2023-02-11,Zapatos deportivos,Deportivo,100000,4,C155
+2023-07-13,Botas,Casual,150000,4,C293
+2023-06-06,Botas,Casual,150000,3,C683
+2023-04-02,Sandalias,Verano,80000,4,C576
+2023-11-30,Zapatos deportivos,Deportivo,100000,2,C962
+2023-03-26,Zapatillas,Casual,90000,5,C722
+2023-06-05,Mocasines,Formal,120000,5,C975
+2023-08-11,Botas,Casual,150000,3,C546
+2023-06-08,Mocasines,Formal,120000,5,C156
+2023-08-26,Zapatos deportivos,Deportivo,100000,2,C254
+2023-10-31,Zapatillas,Casual,90000,3,C288
+2023-09-26,Mocasines,Formal,120000,2,C997
+2023-06-24,Zapatos deportivos,Deportivo,100000,3,C383
+2023-07-03,Sandalias,Verano,80000,4,C743
+2023-01-19,Sandalias,Verano,80000,2,C115
+2023-11-16,Zapatos deportivos,Deportivo,100000,5,C739
+2023-03-01,Botas,Casual,150000,4,C538
+2023-04-14,Mocasines,Formal,120000,5,C343
+2023-11-17,Mocasines,Formal,120000,5,C829
+2023-04-21,Zapatillas,Casual,90000,4,C907
+2023-11-11,Sandalias,Verano,80000,4,C833
+2023-07-03,Zapatillas,Casual,90000,3,C250
+2023-10-24,Zapatos deportivos,Deportivo,100000,3,C567
+2023-06-11,Zapatos deportivos,Deportivo,100000,4,C967
+2023-05-30,Mocasines,Formal,120000,3,C588
+2023-02-10,Sandalias,Verano,80000,3,C719
+2023-12-18,Mocasines,Formal,120000,3,C446
+2023-11-28,Botas,Casual,150000,5,C302
+2023-11-24,Zapatillas,Casual,90000,3,C521
+2023-05-21,Zapatos deportivos,Deportivo,100000,3,C233
+2023-06-06,Zapatillas,Casual,90000,1,C400
+2023-04-23,Sandalias,Verano,80000,2,C177
+2023-02-08,Sandalias,Verano,80000,3,C428
+2023-03-03,Sandalias,Verano,80000,5,C872
+2023-11-24,Botas,Casual,150000,4,C167
+2023-12-28,Sandalias,Verano,80000,2,C449
+2023-03-01,Zapatos deportivos,Deportivo,100000,2,C757
+2023-10-28,Mocasines,Formal,120000,4,C160
+2023-10-30,Sandalias,Verano,80000,2,C208
+2023-01-05,Mocasines,Formal,120000,4,C816
+2023-02-14,Zapatos deportivos,Deportivo,100000,1,C444
+2023-06-28,Mocasines,Formal,120000,4,C829
+2023-01-21,Mocasines,Formal,120000,5,C934
+2023-12-31,Mocasines,Formal,120000,5,C597
+2023-08-14,Zapatillas,Casual,90000,4,C436
+2023-06-27,Botas,Casual,150000,4,C713
+2023-06-22,Zapatillas,Casual,90000,2,C812
+2023-05-23,Zapatillas,Casual,90000,4,C356
+2023-01-20,Botas,Casual,150000,4,C261
+2023-08-28,Botas,Casual,150000,4,C582
+2023-08-26,Zapatillas,Casual,90000,5,C722
+2023-08-30,Zapatos deportivos,Deportivo,100000,4,C688
+2023-09-23,Botas,Casual,150000,5,C219
+2023-07-04,Mocasines,Formal,120000,3,C341
+2023-06-11,Botas,Casual,150000,3,C696
+2023-02-26,Zapatillas,Casual,90000,4,C870
+2023-06-21,Mocasines,Formal,120000,4,C190
+2023-09-12,Mocasines,Formal,120000,5,C356
+2023-06-07,Zapatos deportivos,Deportivo,100000,2,C977
+2023-11-23,Sandalias,Verano,80000,5,C950
+2023-12-30,Mocasines,Formal,120000,1,C740
+2023-04-11,Zapatillas,Casual,90000,4,C896
+2023-04-19,Zapatos deportivos,Deportivo,100000,5,C395
+2023-09-06,Sandalias,Verano,80000,1,C908
+2023-02-11,Botas,Casual,150000,5,C709
+2023-07-03,Botas,Casual,150000,2,C571
+2023-06-24,Sandalias,Verano,80000,4,C647
+2023-05-12,Mocasines,Formal,120000,3,C209
+2023-12-17,Zapatillas,Casual,90000,4,C307
+2023-08-10,Zapatillas,Casual,90000,3,C172
+2023-01-02,Sandalias,Verano,80000,1,C719
+2023-04-27,Sandalias,Verano,80000,1,C290
+2023-03-31,Botas,Casual,150000,3,C559
+2023-06-29,Zapatillas,Casual,90000,5,C298
+2023-12-11,Sandalias,Verano,80000,3,C740
+2023-10-29,Zapatillas,Casual,90000,3,C784
+2023-01-31,Mocasines,Formal,120000,1,C264
+2023-05-06,Zapatos deportivos,Deportivo,100000,3,C360
+2023-04-27,Sandalias,Verano,80000,1,C170
+2023-03-14,Sandalias,Verano,80000,5,C470
+2023-12-30,Zapatillas,Casual,90000,2,C884
+2023-06-03,Botas,Casual,150000,4,C359
+2023-05-17,Zapatillas,Casual,90000,3,C687
+2023-03-17,Sandalias,Verano,80000,3,C426
+2023-12-20,Sandalias,Verano,80000,5,C775
+2023-12-27,Mocasines,Formal,120000,5,C802
+2023-09-29,Mocasines,Formal,120000,5,C960
+2023-05-08,Mocasines,Formal,120000,1,C384
+2023-03-23,Sandalias,Verano,80000,2,C809
+2023-08-23,Mocasines,Formal,120000,4,C124
+2023-08-19,Botas,Casual,150000,5,C969
+2023-08-17,Sandalias,Verano,80000,1,C646
+2023-06-20,Botas,Casual,150000,4,C648
+2023-06-16,Zapatos deportivos,Deportivo,100000,1,C578
+2023-04-15,Sandalias,Verano,80000,5,C295
+2023-05-04,Zapatillas,Casual,90000,4,C583
+2023-01-23,Zapatos deportivos,Deportivo,100000,3,C731
+2023-10-05,Botas,Casual,150000,5,C368
+2023-04-09,Mocasines,Formal,120000,1,C803
+2023-05-10,Botas,Casual,150000,2,C535
+2023-05-26,Zapatos deportivos,Deportivo,100000,2,C726
+2023-10-18,Zapatos deportivos,Deportivo,100000,4,C992
+2023-11-08,Sandalias,Verano,80000,3,C564
+2023-09-19,Botas,Casual,150000,3,C491
+2023-06-25,Zapatillas,Casual,90000,4,C411
+2023-02-13,Mocasines,Formal,120000,5,C742
+2023-11-09,Botas,Casual,150000,5,C682
+2023-11-07,Mocasines,Formal,120000,3,C901
+2023-05-11,Zapatos deportivos,Deportivo,100000,5,C436
+2023-01-02,Botas,Casual,150000,3,C679
+2023-05-25,Botas,Casual,150000,1,C922
+2023-09-28,Botas,Casual,150000,1,C675
+2023-12-27,Zapatillas,Casual,90000,4,C432
+2023-10-15,Zapatillas,Casual,90000,5,C301
+2023-01-05,Botas,Casual,150000,4,C422
+2023-12-18,Zapatillas,Casual,90000,1,C431
+2023-12-21,Botas,Casual,150000,2,C551
+2023-03-06,Sandalias,Verano,80000,5,C103
+2023-04-02,Mocasines,Formal,120000,3,C936
+2023-05-24,Botas,Casual,150000,4,C519
+2023-10-17,Sandalias,Verano,80000,2,C169
+2023-06-14,Sandalias,Verano,80000,3,C703
+2023-05-26,Sandalias,Verano,80000,4,C217
+2023-03-05,Sandalias,Verano,80000,5,C200
+2023-09-06,Mocasines,Formal,120000,4,C214
+2023-03-23,Mocasines,Formal,120000,1,C217
+2023-06-20,Sandalias,Verano,80000,3,C922
+2023-12-18,Mocasines,Formal,120000,4,C813
+2023-01-21,Sandalias,Verano,80000,5,C344
+2023-12-06,Sandalias,Verano,80000,3,C234
+2023-04-16,Zapatillas,Casual,90000,1,C425
+2023-06-25,Sandalias,Verano,80000,4,C554
+2023-05-16,Botas,Casual,150000,3,C887
+2023-03-23,Botas,Casual,150000,3,C472
+2023-03-01,Sandalias,Verano,80000,2,C604
+2023-09-28,Zapatillas,Casual,90000,5,C320
+2023-06-10,Zapatillas,Casual,90000,4,C506
+2023-08-27,Zapatillas,Casual,90000,4,C315
+2023-05-14,Mocasines,Formal,120000,5,C961
+2023-11-19,Zapatos deportivos,Deportivo,100000,2,C687
+2023-05-14,Botas,Casual,150000,5,C363
+2023-12-30,Sandalias,Verano,80000,3,C828
+2023-03-30,Mocasines,Formal,120000,5,C644
+2023-02-22,Zapatos deportivos,Deportivo,100000,4,C572
+2023-05-03,Mocasines,Formal,120000,1,C408
+2023-12-07,Sandalias,Verano,80000,1,C945
+2023-04-07,Mocasines,Formal,120000,3,C901
+2023-04-15,Zapatillas,Casual,90000,4,C991
+2023-04-13,Zapatos deportivos,Deportivo,100000,5,C526
+2023-11-28,Zapatillas,Casual,90000,2,C603
+2023-11-24,Zapatillas,Casual,90000,5,C525
+2023-01-20,Botas,Casual,150000,4,C823
+2023-05-10,Zapatos deportivos,Deportivo,100000,1,C384
+2023-05-28,Mocasines,Formal,120000,2,C273
+2023-12-26,Botas,Casual,150000,2,C964
+2023-09-07,Sandalias,Verano,80000,5,C397
+2023-05-04,Zapatos deportivos,Deportivo,100000,4,C559
+2023-09-03,Zapatos deportivos,Deportivo,100000,2,C879
+2023-12-18,Mocasines,Formal,120000,2,C908
+2023-12-27,Zapatillas,Casual,90000,1,C565
+2023-05-07,Botas,Casual,150000,2,C559
+2023-03-15,Zapatos deportivos,Deportivo,100000,4,C562
+2023-06-21,Mocasines,Formal,120000,3,C811
+2023-04-12,Zapatillas,Casual,90000,1,C236
+2023-08-13,Zapatillas,Casual,90000,4,C487
+2023-12-06,Zapatillas,Casual,90000,1,C691
+2023-06-29,Zapatos deportivos,Deportivo,100000,2,C637
+2023-06-16,Sandalias,Verano,80000,4,C703
+2023-01-12,Mocasines,Formal,120000,4,C391
+2023-06-03,Botas,Casual,150000,3,C768
+2023-11-26,Zapatillas,Casual,90000,3,C411
+2023-03-02,Zapatos deportivos,Deportivo,100000,5,C974
+2023-11-30,Zapatillas,Casual,90000,5,C699
+2023-04-13,Sandalias,Verano,80000,4,C280
+2023-05-09,Zapatillas,Casual,90000,2,C296
+2023-03-20,Botas,Casual,150000,3,C657
+2023-11-02,Zapatillas,Casual,90000,1,C881
+2023-02-11,Botas,Casual,150000,2,C784
+2023-12-08,Botas,Casual,150000,2,C603
+2023-08-04,Zapatos deportivos,Deportivo,100000,4,C702
+2023-12-08,Sandalias,Verano,80000,3,C339
+2023-01-28,Sandalias,Verano,80000,1,C990
+2023-02-10,Botas,Casual,150000,5,C833
+2023-04-15,Zapatillas,Casual,90000,3,C590
+2023-10-17,Zapatos deportivos,Deportivo,100000,3,C108
+2023-01-29,Botas,Casual,150000,1,C271
+2023-10-06,Botas,Casual,150000,1,C907
+2023-08-28,Zapatos deportivos,Deportivo,100000,4,C651
+2023-09-27,Botas,Casual,150000,1,C356
+2023-08-21,Zapatillas,Casual,90000,3,C709
+2023-12-29,Mocasines,Formal,120000,4,C110
+2023-01-29,Botas,Casual,150000,5,C670
+2023-09-24,Mocasines,Formal,120000,4,C281
+2023-08-10,Zapatillas,Casual,90000,2,C740
+2023-07-04,Sandalias,Verano,80000,5,C624
+2023-12-02,Zapatillas,Casual,90000,2,C956
+2023-06-29,Botas,Casual,150000,1,C219
+2023-03-12,Sandalias,Verano,80000,5,C879
+2023-05-23,Sandalias,Verano,80000,5,C331
+2023-03-18,Mocasines,Formal,120000,1,C878
+2023-08-09,Mocasines,Formal,120000,3,C299
+2023-01-26,Sandalias,Verano,80000,5,C461
+2023-12-21,Zapatos deportivos,Deportivo,100000,4,C257
+2023-03-20,Mocasines,Formal,120000,1,C183
+2023-11-03,Zapatos deportivos,Deportivo,100000,5,C365
+2023-05-31,Mocasines,Formal,120000,2,C766
+2023-05-12,Zapatos deportivos,Deportivo,100000,4,C700
+2023-03-20,Zapatos deportivos,Deportivo,100000,1,C768
+2023-11-23,Zapatos deportivos,Deportivo,100000,4,C226
+2023-06-25,Botas,Casual,150000,3,C283
+2023-01-23,Sandalias,Verano,80000,5,C950
+2023-05-10,Botas,Casual,150000,2,C888
+2023-04-02,Sandalias,Verano,80000,1,C561
+2023-11-10,Botas,Casual,150000,1,C840
+2023-09-04,Zapatillas,Casual,90000,2,C173
+2023-09-20,Zapatos deportivos,Deportivo,100000,2,C283
+2023-10-19,Zapatos deportivos,Deportivo,100000,2,C495
+2023-05-08,Sandalias,Verano,80000,1,C382
+2023-02-26,Mocasines,Formal,120000,3,C985
+2023-02-05,Sandalias,Verano,80000,2,C847
+2023-08-12,Zapatos deportivos,Deportivo,100000,5,C277
+2023-04-04,Zapatillas,Casual,90000,4,C609
+2023-01-30,Botas,Casual,150000,1,C727
+2023-12-19,Mocasines,Formal,120000,4,C360
+2023-02-04,Zapatos deportivos,Deportivo,100000,2,C784
+2023-06-16,Botas,Casual,150000,1,C687
+2023-08-20,Mocasines,Formal,120000,1,C214
+2023-10-15,Zapatillas,Casual,90000,3,C885
+2023-06-29,Botas,Casual,150000,5,C171
+2023-01-22,Botas,Casual,150000,4,C783
+2023-05-10,Mocasines,Formal,120000,2,C725
+2023-12-21,Zapatillas,Casual,90000,2,C487
+2023-10-31,Mocasines,Formal,120000,1,C759
+2023-03-11,Zapatos deportivos,Deportivo,100000,2,C383
+2023-10-15,Botas,Casual,150000,5,C689
+2023-12-22,Zapatillas,Casual,90000,1,C504
+2023-12-10,Zapatos deportivos,Deportivo,100000,2,C928
+2023-04-15,Zapatillas,Casual,90000,4,C144
+2023-04-10,Zapatos deportivos,Deportivo,100000,4,C408
+2023-11-05,Sandalias,Verano,80000,2,C345
+2023-01-01,Zapatillas,Casual,90000,2,C652
+2023-05-07,Botas,Casual,150000,1,C219
+2023-10-30,Zapatillas,Casual,90000,4,C155
+2023-09-29,Sandalias,Verano,80000,1,C455
+2023-05-15,Zapatos deportivos,Deportivo,100000,5,C377
+2023-08-09,Zapatos deportivos,Deportivo,100000,3,C571
+2023-02-26,Botas,Casual,150000,2,C946
+2023-05-11,Mocasines,Formal,120000,2,C603
+2023-09-06,Botas,Casual,150000,3,C486
+2023-07-25,Botas,Casual,150000,3,C944
+2023-10-31,Zapatos deportivos,Deportivo,100000,4,C948
+2023-01-28,Mocasines,Formal,120000,4,C608
+2023-10-14,Zapatillas,Casual,90000,2,C106
+2023-05-14,Botas,Casual,150000,3,C267
+2023-08-06,Zapatos deportivos,Deportivo,100000,3,C646
+2023-06-17,Mocasines,Formal,120000,4,C414
+2023-08-10,Zapatos deportivos,Deportivo,100000,1,C128
+2023-03-16,Botas,Casual,150000,1,C998
+2023-04-27,Botas,Casual,150000,3,C808
+2023-05-21,Mocasines,Formal,120000,3,C607
+2023-10-12,Mocasines,Formal,120000,2,C371
+2023-12-12,Sandalias,Verano,80000,3,C776
+2023-06-16,Botas,Casual,150000,2,C483
+2023-03-29,Zapatillas,Casual,90000,5,C279
+2023-07-01,Botas,Casual,150000,5,C805
+2023-09-30,Zapatos deportivos,Deportivo,100000,1,C533
+2023-08-17,Sandalias,Verano,80000,1,C317
+2023-01-03,Sandalias,Verano,80000,3,C422
+2023-02-11,Zapatillas,Casual,90000,5,C346
+2023-05-23,Zapatillas,Casual,90000,3,C164
+2023-01-02,Zapatillas,Casual,90000,4,C432
+2023-02-07,Mocasines,Formal,120000,3,C121
+2023-07-28,Mocasines,Formal,120000,1,C456
+2023-09-02,Zapatillas,Casual,90000,4,C446
+2023-10-25,Botas,Casual,150000,4,C225
+2023-09-16,Zapatos deportivos,Deportivo,100000,5,C269
+2023-02-12,Zapatillas,Casual,90000,3,C770
+2023-03-14,Botas,Casual,150000,2,C245
+2023-01-31,Zapatillas,Casual,90000,5,C455
+2023-02-16,Zapatillas,Casual,90000,2,C340
+2023-12-06,Mocasines,Formal,120000,1,C759
+2023-03-22,Sandalias,Verano,80000,4,C135
+2023-08-15,Botas,Casual,150000,5,C935
+2023-01-15,Mocasines,Formal,120000,2,C495
+2023-02-19,Zapatillas,Casual,90000,3,C963
+2023-02-12,Sandalias,Verano,80000,5,C317
+2023-06-10,Zapatos deportivos,Deportivo,100000,3,C382
+2023-01-05,Mocasines,Formal,120000,1,C500
+2023-10-22,Botas,Casual,150000,5,C777
+2023-10-15,Zapatillas,Casual,90000,2,C806
+2023-12-06,Sandalias,Verano,80000,1,C923
+2023-03-16,Zapatillas,Casual,90000,5,C317
+2023-01-10,Mocasines,Formal,120000,3,C187
+2023-10-04,Zapatillas,Casual,90000,1,C827
+2023-05-05,Mocasines,Formal,120000,4,C804
+2023-03-12,Zapatillas,Casual,90000,3,C997
+2023-05-27,Mocasines,Formal,120000,5,C864
+2023-09-03,Mocasines,Formal,120000,4,C630
+2023-04-20,Sandalias,Verano,80000,4,C300
+2023-04-07,Mocasines,Formal,120000,3,C417
+2023-11-22,Sandalias,Verano,80000,3,C842
+2023-02-06,Zapatillas,Casual,90000,4,C788
+2023-01-29,Botas,Casual,150000,5,C974
+2023-10-19,Sandalias,Verano,80000,4,C291
+2023-10-16,Botas,Casual,150000,5,C910
+2023-02-22,Mocasines,Formal,120000,5,C290
+2023-12-02,Mocasines,Formal,120000,4,C318
+2023-07-18,Mocasines,Formal,120000,5,C676
+2023-03-30,Sandalias,Verano,80000,2,C429
+2023-06-12,Botas,Casual,150000,3,C178
+2023-12-17,Mocasines,Formal,120000,2,C788
+2023-05-24,Sandalias,Verano,80000,4,C230
+2023-09-28,Botas,Casual,150000,1,C120
+2023-01-29,Botas,Casual,150000,4,C973
+2023-10-21,Botas,Casual,150000,5,C590
+2023-09-10,Zapatillas,Casual,90000,4,C263
+2023-05-11,Botas,Casual,150000,3,C825
+2023-11-02,Botas,Casual,150000,1,C635
+2023-10-07,Zapatos deportivos,Deportivo,100000,3,C997
+2023-02-15,Sandalias,Verano,80000,2,C661
+2023-05-29,Zapatillas,Casual,90000,4,C674
+2023-09-21,Zapatillas,Casual,90000,5,C199
+2023-10-25,Mocasines,Formal,120000,4,C675
+2023-01-11,Zapatillas,Casual,90000,5,C384
+2023-05-18,Sandalias,Verano,80000,4,C407
+2023-05-01,Botas,Casual,150000,1,C257
+2023-02-20,Sandalias,Verano,80000,3,C883
+2023-11-30,Sandalias,Verano,80000,3,C374
+2023-11-30,Zapatos deportivos,Deportivo,100000,4,C621
+2023-04-14,Zapatos deportivos,Deportivo,100000,4,C460
+2023-12-29,Mocasines,Formal,120000,1,C935
+2023-07-28,Sandalias,Verano,80000,1,C857
+2023-06-23,Mocasines,Formal,120000,5,C606
+2023-01-09,Zapatos deportivos,Deportivo,100000,4,C606
+2023-09-16,Zapatos deportivos,Deportivo,100000,5,C780
+2023-05-16,Sandalias,Verano,80000,4,C284
+2023-07-31,Botas,Casual,150000,1,C811
+2023-05-07,Botas,Casual,150000,1,C793
+2023-02-03,Mocasines,Formal,120000,3,C142
+2023-08-14,Mocasines,Formal,120000,5,C862
+2023-09-28,Botas,Casual,150000,1,C624
+2023-05-04,Zapatos deportivos,Deportivo,100000,2,C357
+2023-07-23,Botas,Casual,150000,3,C517
+2023-02-12,Sandalias,Verano,80000,3,C497
+2023-12-20,Sandalias,Verano,80000,5,C938
+2023-11-09,Mocasines,Formal,120000,1,C457
+2023-06-08,Zapatos deportivos,Deportivo,100000,4,C617
+2023-03-22,Zapatos deportivos,Deportivo,100000,5,C317
+2023-05-31,Sandalias,Verano,80000,2,C527
+2023-03-31,Zapatos deportivos,Deportivo,100000,2,C261
+2023-08-03,Zapatillas,Casual,90000,1,C495
+2023-06-17,Botas,Casual,150000,5,C938
+2023-11-19,Sandalias,Verano,80000,2,C897
+2023-07-09,Sandalias,Verano,80000,1,C761
+2023-04-26,Mocasines,Formal,120000,4,C591
+2023-11-12,Zapatos deportivos,Deportivo,100000,5,C136
+2023-09-07,Mocasines,Formal,120000,4,C315
+2023-12-17,Sandalias,Verano,80000,2,C429
+2023-06-24,Zapatillas,Casual,90000,1,C357
+2023-01-04,Sandalias,Verano,80000,5,C623
+2023-02-02,Zapatos deportivos,Deportivo,100000,4,C744
+2023-04-19,Botas,Casual,150000,5,C566
+2023-03-09,Botas,Casual,150000,4,C243
+2023-11-16,Sandalias,Verano,80000,2,C292
+2023-12-19,Botas,Casual,150000,5,C894
+2023-01-29,Botas,Casual,150000,4,C317
